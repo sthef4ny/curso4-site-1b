@@ -1,8 +1,12 @@
+#livraria{
+   width:25;
+   height: 100px;
+}
 
 h1 {
    font-size: 33px;
    text-align: center;
-   background: rgb(145, 178, 240);
+   background: rgb(173, 204, 245);
 }
 
 p{

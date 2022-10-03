@@ -21,5 +21,15 @@ p{
  .beneficios {
      background-color: rgb(222, 222, 235);
 }
+ul{
+   display: inline-block;
+}
+
+
 #livro{
    width: 200mpx;
+}
+
+#livroo {
+   width: 50%;
+}

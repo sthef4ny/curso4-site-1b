@@ -15,10 +15,11 @@ p{
  strong {
     color: rgb(21, 71, 112);
  }
+
   .itens{
    font-style: italic;
   }
 
- .beneficos {
+ .beneficios {
      background-color: blue;
 }

@@ -1,6 +1,4 @@
-#livro{
-   width: 200mpx;
-}
+
 
 h1 {
    font-size: 33px;
@@ -23,3 +21,5 @@ p{
  .beneficios {
      background-color: rgb(222, 222, 235);
 }
+#livro{
+   width: 200mpx;

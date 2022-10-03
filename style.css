@@ -23,6 +23,7 @@ p{
 }
 ul{
    display: inline-block;
+   vertical-align: top;
 }
 
 
@@ -30,6 +31,3 @@ ul{
    width: 200mpx;
 }
 
-#livroo {
-   width: 50%;
-}

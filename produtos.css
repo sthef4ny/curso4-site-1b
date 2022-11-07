@@ -1,5 +1,7 @@
       header {
-        background: rgb(39, 218, 209);
+        background: rgb(219, 224, 224);
+      }  
+       .caixa-nav{   
         position: relative;
         width: 940px;
         margin: 0 auto;
@@ -27,7 +29,7 @@
     
     nav a {
         text-transform: uppercase;
-        color: rgb(0, 38, 255);
+        color: rgb(151, 165, 245);
         font-weight: bold;
         font-size: 20px;
         text-decoration: none;

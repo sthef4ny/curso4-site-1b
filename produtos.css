@@ -37,12 +37,13 @@
     }
 
     .produtos {
-        width: 1200px;
+        width: 1058px;
         margin: 0 auto;
     }
 
     .produtos li {
         display: inline-block;
+        text-align: center;
     }
 
     .item {

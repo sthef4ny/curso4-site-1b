@@ -1,5 +1,5 @@
       header {
-        background: rgb(219, 224, 224);
+        background: #d9d9d9;
       }
         
     .caixa-nav{   
@@ -13,7 +13,7 @@
     }
     
     #logo {
-        width: 250px;
+        width: 400px;
     }
     
     nav {
@@ -37,16 +37,35 @@
     }
 
     .produtos {
-        width: 1058px;
+        width: 1150px;
         margin: 0 auto;
+        padding: 45px;
     }
 
     .produtos li {
         display: inline-block;
         text-align: center;
+        margin:10px;
+        border-color: rgb(151, 165, 245);
+        border-width: 3px;
+        border-style: solid;
+        border-radius: 15px;
     }
 
     .item {
         width: 350px;
         height: 260px;
+    }
+
+    .produtos li h2 {
+       font-size: 30px; 
+       font-weight: bold;
+       margin-bottom: 20px;
+       margin-top: 15px;
+    }
+
+    .produtos li p {
+        font-size: 20px;
+        margin-top: 10px;
+        margin-bottom: 15px;
     }
